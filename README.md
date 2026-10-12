@@ -1,7 +1,14 @@
-# Wang Qicai
+# Wang Qicai · 王啟才
 
-I’m interested in how technology evolves, how markets respond, and where lasting value is created.
+I build artificial intelligence products and automation tools.
 
-My focus is on **artificial intelligence, crypto networks and capital markets**. This GitHub is where I share projects and experiments; my website brings together longer-form writing and research notes.
+Previously a **security engineer at Xiaomi** and **Head of Information Security at Kuaikan**. My work in security shapes how I think about reliable systems, permissions and failure modes.
+
+I also research investing and crypto, and write about the decisions and experiments behind my work.
 
 [Website](https://wangqicai.com) · [Writing](https://wangqicai.com/writing/) · [X](https://x.com/realWangQicai)
+
+## Selected work
+
+- **[Crypto-LLM](https://wangqicai.com/projects/crypto-llm/)** — An experiment in language-model decisions and risk controls for crypto markets.
+- **[SignalSniper](https://wangqicai.com/projects/signal-sniper/)** — AI-assisted research tools for China's A-share market.

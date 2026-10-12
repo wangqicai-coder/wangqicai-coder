@@ -1,14 +1,14 @@
 # Wang Qicai · 王啟才
 
-I build artificial intelligence products and automation tools.
+Founder, building AI products. Ex-Xiaomi engineer.
 
-Previously a **security engineer at Xiaomi** and **Head of Information Security at Kuaikan**. My work in security shapes how I think about reliable systems, permissions and failure modes.
-
-I also research investing and crypto, and write about the decisions and experiments behind my work.
-
-[Website](https://wangqicai.com) · [Writing](https://wangqicai.com/writing/) · [X](https://x.com/realWangQicai)
+I'm building a new AI company, still in stealth, and sharing the journey on [X](https://x.com/realWangQicai). Before this, I spent more than a decade in security engineering.
 
 ## Selected work
 
-- **[Crypto-LLM](https://wangqicai.com/projects/crypto-llm/)** — An experiment in language-model decisions and risk controls for crypto markets.
-- **[SignalSniper](https://wangqicai.com/projects/signal-sniper/)** — AI-assisted research tools for China's A-share market.
+- **[Crypto-LLM](https://wangqicai.com/projects/crypto-llm/)** — LLM decisions for crypto markets, with hard risk limits.
+- **[SignalSniper](https://wangqicai.com/projects/signal-sniper/)** — AI research copilot for China's A-share market.
+
+The code for these projects is private; the case studies are on my website.
+
+[wangqicai.com](https://wangqicai.com) · [X](https://x.com/realWangQicai) · [中文](https://wangqicai.com/zh/)

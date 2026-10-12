@@ -2,7 +2,7 @@
 
 Founder, building AI products. Ex-Xiaomi engineer.
 
-I'm building a new AI company, still in stealth, and sharing the journey on [X](https://x.com/realWangQicai). Before this, I spent more than a decade in security engineering.
+My company is still in stealth, and I'm sharing the journey on [X](https://x.com/realWangQicai). Before this, I spent more than a decade in security engineering.
 
 ## Selected work
 

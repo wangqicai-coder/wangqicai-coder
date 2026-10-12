@@ -2,6 +2,6 @@
 
 I’m interested in how technology evolves, how markets respond, and where lasting value is created.
 
-My focus is on **AI, crypto networks and capital markets**. This GitHub is where I share projects and experiments; my website brings together longer-form writing and research notes.
+My focus is on **artificial intelligence, crypto networks and capital markets**. This GitHub is where I share projects and experiments; my website brings together longer-form writing and research notes.
 
 [Website](https://wangqicai.com) · [Writing](https://wangqicai.com/writing/) · [X](https://x.com/realWangQicai)

@@ -7,7 +7,7 @@ My company is still in stealth; I write about building it on [X](https://x.com/r
 ## Selected work
 
 - **[Crypto-LLM](https://wangqicai.com/projects/crypto-llm/)** — An LLM trading experiment for crypto, with hard risk limits.
-- **[SignalSniper](https://wangqicai.com/projects/signal-sniper/)** — AI research copilot for China's A-share market.
+- **[Scopevest](https://wangqicai.com/projects/scopevest/)** — AI investment research for China's A-shares, with every strategy tested out of sample.
 
 The code for these projects is private; the case studies are on my website.
 
